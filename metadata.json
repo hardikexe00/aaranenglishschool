@@ -1,0 +1,6 @@
+{
+  "name": "AAR AN English School",
+  "description": "Official website of AAR AN English School, Kongaon, Bhiwandi. Quality English Medium education from Nursery to Grade 10.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
